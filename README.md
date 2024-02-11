@@ -2,7 +2,7 @@
 
 ## Overview
 This API converts HTML content into an image with customizable options including format, quality, size, and dynamic text insertion.
-
+ID: a6802252-8d67-43aa-bf89-6aedb7ec1e88
 ## Installation
 - Clone the repository: `git clone https://github.com/drhema/html_css_to_image_API.git`
 - Install dependencies: `npm install`
