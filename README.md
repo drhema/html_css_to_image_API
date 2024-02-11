@@ -6,6 +6,11 @@ This API converts HTML content into an image with customizable options including
 ## Installation
 - Clone the repository: `git clone https://github.com/drhema/html_css_to_image_API.git`
 - Install dependencies: `npm install`
+- npm install dotenv
+- npm install aws-sdk
+- npm install @aws-sdk/client-s3 @aws-sdk/lib-storage
+
+ #Edit .env with your amazon s3 bucket details
 
 ## Running the API
 - Start the server: `npm start`
