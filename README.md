@@ -35,7 +35,7 @@ This API converts HTML content into an image with customizable options including
 EX:
   ```json
 {
-  "htmlContent": "<!DOCTYPE html><html><head><link href='https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css' rel='stylesheet'><link href='https://fonts.googleapis.com/css2?family=Roboto:wght@700' rel='stylesheet'><style>body { font-family: 'Roboto', sans-serif; }</style></head><body><div class='p-4 text-center mt-4' style='width: 500px'><span class='tweet-text mb-4'>$custom_text</span><div class='mt-2 p-4'><img src='https://docs.htmlcsstoimage.com/assets/images/dog.jpg' class='rounded-circle shadow border mt-4' width='100px'></div><h4 class='mt-2'>WeRateDogs</h4><span class='text-muted'>@dog_rates</span></div></body></html>",
+  "htmlContent": "<!DOCTYPE html><html><head><link href='https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css' rel='stylesheet'><link href='https://fonts.googleapis.com/css2?family=Roboto:wght@700' rel='stylesheet'><style>body { font-family: 'Roboto', sans-serif; }</style></head><body><div class='p-4 text-center mt-4' style='width: 500px'><span class='tweet-text mb-4'>$custom_text</span><div class='mt-2 p-4'><img src='https://bestfriends.org/sites/default/files/styles/hero_mobile/public/hero-dash/Asana3808_Dashboard_Standard.jpg' class='rounded-circle shadow border mt-4' width='100px'></div><h4 class='mt-2'>WeRateDogs</h4><span class='text-muted'>@dog_rates</span></div></body></html>",
   "format": "webp",
   "quality": 80,
   "width": 800,
